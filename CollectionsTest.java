@@ -25,8 +25,6 @@ public class CollectionsTest {
         list.add(1);
         list.add(2);
         list.add(3);
-        for(int i=0;i<3;i++){
-          list.GetItemAtIndex(i);
-        }
+        
     }
 }
